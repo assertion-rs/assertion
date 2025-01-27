@@ -1,0 +1,15 @@
+[package]
+name = "assertion"
+description = "Assertion library for the Rust programming language"
+version = "0.1.0"
+edition = "2021"
+authors = ["assertion team"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/assertion-rs/assertion"
+homepage = "https://github.com/assertion-rs/assertion"
+documentation = "https://docs.rs/assertion"
+keywords = ["assertion", "assert", "debug", "testing"]
+categories = ["development-tools", "development-tools::debugging"]
+
+[dependencies]
